@@ -1,0 +1,5 @@
+ollama
+human-eval
+psutil
+nvidia-ml-py
+
